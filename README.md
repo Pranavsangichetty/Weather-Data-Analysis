@@ -10,25 +10,21 @@ The goal is to showcase data cleaning, time-series trend analysis, and predictiv
 
 📂 Repository Contents
 
-File Name	Type	Description
-
-weather_analysis.ipynb	Python Notebook	EDA, trend visualization, and regression modeling
-
-daily_min_temp.csv	Dataset	Historical daily minimum temperature data
-
-README.md	Documentation	Project explanation and usage guide
+| File Name              | Type            | Description                                       |
+| ---------------------- | --------------- | ------------------------------------------------- |
+| weather_analysis.ipynb | Python Notebook | EDA, trend visualization, and regression modeling |
+| daily_min_temp.csv     | Dataset         | Historical daily minimum temperature data         |
+| README.md              | Documentation   | Project explanation and usage guide               |
 
 ⚙️ Tech Stack
 
-Component	Tool / Library	Purpose
+| Component            | Tool / Library | Purpose                       |
+| -------------------- | -------------- | ----------------------------- |
+| Data Analysis        | Pandas, NumPy  | Data cleaning and preparation |
+| Visualization        | Matplotlib     | Trend and comparison plots    |
+| Machine Learning     | Scikit-Learn   | Regression modeling           |
+| Programming Language | Python         | Core implementation           |
 
-Data Analysis	Pandas, NumPy	Data cleaning and preparation
-
-Visualization	Matplotlib	Trend and comparison plots
-
-Machine Learning	Scikit-Learn	Regression modeling
-
-Programming Language	Python	Core implementation
 
 🏗️ Data Preparation & Analysis
 
